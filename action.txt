@@ -1,3 +1,7 @@
 Hello, this is from action!!!!
 
-Adding a second line and changing the first line!!
+Adding a second line and changing the first line!
+
+Adding a third line!
+
+Git is such a beauty. 
