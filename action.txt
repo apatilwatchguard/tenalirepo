@@ -5,3 +5,6 @@ Adding a second line and changing the first line!
 Adding a third line!
 
 Git is such a beauty. 
+
+
+I wish to make changes to this file now. A conflict is due maybe?
