@@ -11,3 +11,7 @@ Hello buddy.
 How are you doing? What's up with you now?
 
 I'm not really sure how I would solve this problem. Need to seek some help from someone I guess. 
+Git is such a beauty. 
+
+
+I wish to make changes to this file now. A conflict is due maybe?
